@@ -1,1 +1,1 @@
-A link (https://alx-intranet.hbtn.io/projects/210)
+This file is mandatory in projects
